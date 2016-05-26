@@ -8,6 +8,8 @@ public class SampleHelloClass {
 		
 		System.out.println("Hello this is just sample2 change");
 		// TODO Auto-generated method stub
+		System.out.println("Hello this is just sample22 change");
+		// TODO Auto-generated method stub
 
 	}
 
